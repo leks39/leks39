@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **Machine Learning and Analytics projects**
 
-- 🌱 I’m currently learning **Application of analytics tools to generate insights while solving business problems**
+- 🌱 I’m currently learning **use of analytics tools to generate insights while solving business problems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/leks39?tab=repositories](https://github.com/leks39?tab=repositories)
 
-- 📝 I regularly write articles on [Machine learning for Business, Supply Chain, Sports and Entertainment analytics](Machine learning for Business, Supply Chain, Sports and Entertainment analytics)
+- 📝 I regularly write articles on Machine learning for Business, Supply Chain, Sports and Entertainment analytics
 
 - 💬 Ask me about **Python, R, SQL, Tableau, Machine Learning**
 
 - 📫 How to reach me **139lakeside@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/olalekan-fagbuyi-86781b8a/](https://www.linkedin.com/in/olalekan-fagbuyi-86781b8a/)
+- 📄 Know about my experiences (https://www.linkedin.com/in/olalekan-fagbuyi-86781b8a/)
 
 - ⚡ Fun fact **Runner, Gamer, Traveller**
 
