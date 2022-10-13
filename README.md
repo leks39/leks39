@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Machine Learning and Analytics projects**
 
-- 🌱 I’m currently learning **use of analytics tools to generate insights while solving business problems**
+- 🌱 I’m currently learning **the use of analytics tools to generate insights while solving business problems**
 
-- 👨‍💻 All of my projects are available at [https://github.com/leks39?tab=repositories](https://github.com/leks39?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/leks39]
 
 - 📝 I regularly write articles on Machine learning for Business, Supply Chain, Sports and Entertainment analytics
 
