@@ -37,5 +37,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leks39&" alt="leks39" /></p>
 
+[![leks39's GitHub stats](https://github-readme-stats.vercel.app/api?username=leks39)](https://github.com/leks39/github-readme-stats)
 
 
