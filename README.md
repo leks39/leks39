@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olalekan Fagbuyi</h1>
 <h3 align="center">An aspiring data scientist from Lagos, Nigeria with previous experience in supply chain and finance</h3>
-<img align="right" alt="Coding" width="400" src=https://d2o2utebsixu4k.cloudfront.net/media/images/1646394984771-01.png>
+<img align="center" alt="Coding" width="400" src=https://d2o2utebsixu4k.cloudfront.net/media/images/1646394984771-01.png>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leks39&label=Profile%20views&color=0e75b6&style=flat" alt="leks39" /> </p>
 
